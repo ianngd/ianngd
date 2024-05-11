@@ -1,4 +1,6 @@
-### Hi there 👋
+#  Hey there 👋 I'm Iann Gabriel! ✨🏳️‍🌈
+#####  35y | Sul-matogrossense | Brazil
+### Im starts my journey in programming, and I hope in a short time can be a voluntary in projects apart from my cooperative and student life's. 🫶🏾🇧🇷
 
 <!--
 **ianngd/ianngd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
