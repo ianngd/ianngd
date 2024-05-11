@@ -2,11 +2,12 @@
 #####  35y | Sul-matogrossense | Brazil | 
 
 ### Im starts my journey in programming, and I hope in a short time can be a voluntary in projects apart from my cooperative and student life's. 🫶🏾
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oxsuqgzfktlulf5quz22rwusta?si=cbJgQMnNQxiEu8mim2uoNg)
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ianngabriel) 
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ianngabriel)
 
-
-
- 🌱 I’m currently learning
+##### 🔭 I’m currently working in insurance
+##### 🌱 I’m currently learning
  
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,10 +15,13 @@
 
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianngd&show_icons=true&theme=transparent)
+ ![Iann's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianngd&show_icons=true&theme=dracula)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianngd&hide_progress=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianngd&hide_progress=true&theme=dracula)
+
+
+
 
 <!--
 **ianngd/ianngd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
