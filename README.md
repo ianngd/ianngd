@@ -1,5 +1,5 @@
 #  Hey there 👋 I'm Iann Gabriel! ✨🏳️‍🌈
-#####  36y | Sul-matogrossense em São Paulo | Brazil | 
+#####  37y | Sul-matogrossense em São Paulo | Brazil | 
 
 ### I'm starting my journey in programming, and I hope to soon volunteer in projects beyond my work and student life.. 🫶🏾
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31oxsuqgzfktlulf5quz22rwusta?si=cbJgQMnNQxiEu8mim2uoNg)
@@ -12,6 +12,7 @@
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
  ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![CPP](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 
 
